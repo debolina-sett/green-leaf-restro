@@ -155,7 +155,7 @@ header #info{
     border: none;
     border-radius: 8px;
     font-weight: bold;
-    color: rgb(6, 146, 99);
+    color:rgb(18, 168, 78);
 }
 
 main{
@@ -187,7 +187,7 @@ main{
 
 h5{
     font-weight: bold;
-    color: rgb(7, 136, 65);
+    color:rgb(18, 168, 78);
     font-size: 20px;
     margin: 10px auto;
     font-family: 'Roboto', sans-serif;
@@ -208,13 +208,13 @@ h5{
     margin: 10px;
     font-weight: bold;
     background-color: white;
-    color: rgb(7, 136, 65);
-    border: 2px solid rgb(7, 136, 65);
+    color: rgb(18, 168, 78);
+    border: 2px solid rgb(18, 168, 78);
     border-radius: 4px;   
 }
 
 .blog button:hover{
-    background-color: rgb(7, 136, 65);
+    background-color: rgb(18, 168, 78);
     color: white;
     font-weight: bold;
 }
@@ -233,7 +233,7 @@ footer{
 
 footer .row{
     
-    background-color:rgb(7, 136, 65);
+    background-color:rgb(18, 168, 78);
     color: white;
 }
 
@@ -305,11 +305,11 @@ footer #row2{
 }
 
 h4{
-    color: rgb(7, 136, 65);
+    color:rgb(18, 168, 78);
 }
 
 i{
-    color:rgb(7, 136, 65);
+    color:rgb(18, 168, 78);
 }
 
 .container {
@@ -327,7 +327,7 @@ input[type=text], input[type=submit] {
 }
 
 input[type=submit] {
-    background-color: rgb(7, 136, 65);
+    background-color: rgb(18, 168, 78);
     color: white;
     border: none;
 }
